@@ -1,9 +1,5 @@
-# Ignore everything
-*
 
-# But not Java files...
-!.gitignore
-!*.java
-
-# ...even if they are in subdirectories
-!*/
+/.gradle/
+/build/
+/.idea/
+/gradle/
